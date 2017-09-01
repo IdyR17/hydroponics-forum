@@ -1,0 +1,12 @@
+{
+    "url": "mongodb://<dbuser>:<dbpassword>@ds119044.mlab.com:19044/growitin-forum",
+    "secret": "0b39f2a1-b13f-4b92-84cb-9a3ca3e3883b",
+    "database": "mongo",
+    "mongo": {
+        "host": "ds119044.mlab.com",
+        "port": "19044",
+        "username": "growitin",
+        "password": "jurhidy17",
+        "database": "growitin-forum"
+    }
+}

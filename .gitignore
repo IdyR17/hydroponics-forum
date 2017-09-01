@@ -2,7 +2,10 @@ yarn.lock
 npm-debug.log
 node_modules/
 sftp-config.json
-config.json
+
+#this is for security purposes
+config.json.old
+
 jsconfig.json
 public/src/nodebb.min.js
 !src/views/config.json
