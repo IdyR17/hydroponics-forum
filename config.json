@@ -4,9 +4,9 @@
     "database": "mongo",
     "mongo": {
         "host": "ds119044.mlab.com",
-        "port": "19044",
         "username": "growitin",
         "password": "jurhidy17",
-        "database": "growitin-forum"
+        "database": "growitin-forum",
+        "port": 19044
     }
 }
